@@ -6,11 +6,13 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 
 public class TelaPrincipal extends AppCompatActivity {
 
    ImageView menu;
+   Button filme1;
 
 
     @Override
@@ -22,13 +24,27 @@ public class TelaPrincipal extends AppCompatActivity {
         menu.setOnClickListener(new View.OnClickListener() {
 
             @Override
-            public void onClick(View va) {
-                Intent intenta = new Intent(TelaPrincipal.this, MenuTela.class);
-                startActivity(intenta);
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, MenuTela.class);
+                startActivity(intent);
 
 
             }
         });
 
+        filme1 = findViewById(R.id.btn_filme1);
+        filme1.setOnClickListener(new View.OnClickListener() {
+
+        @Override
+        public void onClick(View v) {
+            Intent intent = new Intent(TelaPrincipal.this, filme1.class);
+            startActivity(intent);
+
+        }
+    });
+
+        }
+
+
+
     }
-}

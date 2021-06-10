@@ -19,4 +19,8 @@
     <string name="img_coracao">img_coracao</string>
     <string name="melhores_avaliacoes">Melhores Avaliações</string>
     <string name="caixa_informacao">caixa_informacao</string>
+    <string name="text_main">Fique por dentro do mundo cinematográfico e se junte a nós!</string>
+    <string name="bt_primeiro"><![CDATA[Entrar >]]></string>
+    <string name="cinexplain">Cinexplain</string>
+    <string name="logo_pipoca">logo_pipoca</string>
 </resources>

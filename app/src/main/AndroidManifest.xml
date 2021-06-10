@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/cinexplainFullScream">
-        <activity android:name=".MenuTela"></activity>
+        <activity android:name=".filme1"></activity>
+        <activity android:name=".MenuTela" />
         <activity android:name=".TelaPrincipal" />
         <activity android:name=".MainActivity">
             <intent-filter>
