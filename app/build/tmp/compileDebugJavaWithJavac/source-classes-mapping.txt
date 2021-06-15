@@ -1,0 +1,49 @@
+com/example/appsorteio/filme6.java
+ com.example.appsorteio.filme6
+ com.example.appsorteio.filme6$1
+com/example/appsorteio/filme3.java
+ com.example.appsorteio.filme3
+ com.example.appsorteio.filme3$1
+com/example/appsorteio/TelaPrincipal.java
+ com.example.appsorteio.TelaPrincipal
+ com.example.appsorteio.TelaPrincipal$1
+ com.example.appsorteio.TelaPrincipal$10
+ com.example.appsorteio.TelaPrincipal$2
+ com.example.appsorteio.TelaPrincipal$3
+ com.example.appsorteio.TelaPrincipal$4
+ com.example.appsorteio.TelaPrincipal$5
+ com.example.appsorteio.TelaPrincipal$6
+ com.example.appsorteio.TelaPrincipal$7
+ com.example.appsorteio.TelaPrincipal$8
+ com.example.appsorteio.TelaPrincipal$9
+com/example/appsorteio/BuildConfig.java
+ com.example.appsorteio.BuildConfig
+com/example/appsorteio/filme9.java
+ com.example.appsorteio.filme9
+ com.example.appsorteio.filme9$1
+com/example/appsorteio/filme1.java
+ com.example.appsorteio.filme1
+ com.example.appsorteio.filme1$1
+com/example/appsorteio/filme4.java
+ com.example.appsorteio.filme4
+ com.example.appsorteio.filme4$1
+com/example/appsorteio/filme7.java
+ com.example.appsorteio.filme7
+ com.example.appsorteio.filme7$1
+com/example/appsorteio/filme5.java
+ com.example.appsorteio.filme5
+ com.example.appsorteio.filme5$1
+com/example/appsorteio/filme2.java
+ com.example.appsorteio.filme2
+ com.example.appsorteio.filme2$1
+com/example/appsorteio/filme8.java
+ com.example.appsorteio.filme8
+ com.example.appsorteio.filme8$1
+com/example/appsorteio/MainActivity.java
+ com.example.appsorteio.MainActivity
+ com.example.appsorteio.MainActivity$1
+com/example/appsorteio/MenuTela.java
+ com.example.appsorteio.MenuTela
+ com.example.appsorteio.MenuTela$1
+ com.example.appsorteio.MenuTela$2
+ com.example.appsorteio.MenuTela$3
