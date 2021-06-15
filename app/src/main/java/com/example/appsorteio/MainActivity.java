@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         botao1 = findViewById(R.id.bt_primeiro);
         botao1.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this,TelaPrincipal.class);

@@ -10,7 +10,6 @@ import android.widget.ImageView;
 
 public class filme1 extends AppCompatActivity {
 
-   //definindo a variável
    ImageView trailer1;
 
     @Override

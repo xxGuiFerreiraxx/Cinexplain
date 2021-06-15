@@ -11,8 +11,8 @@ import android.widget.ImageView;
 
 public class TelaPrincipal extends AppCompatActivity {
 
-   ImageView menu;
-   Button filme1;
+    ImageView menu, filme2, filme3, filme4, filme5, filme6, filme7, filme8, filme9;
+    Button filme1;
 
 
     @Override
@@ -43,8 +43,102 @@ public class TelaPrincipal extends AppCompatActivity {
         }
     });
 
+        filme2 = findViewById(R.id.filme2);
+        filme2.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, filme2.class);
+                startActivity(intent);
+
+
+            }
+        });
+
+        filme3 = findViewById(R.id.filme3);
+        filme3.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, filme3.class);
+                startActivity(intent);
+
+
+            }
+        });
+
+        filme4 = findViewById(R.id.filme4);
+        filme4.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, filme4.class);
+                startActivity(intent);
+
+
+            }
+        });
+
+        filme5 = findViewById(R.id.filme5);
+        filme5.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, filme5.class);
+                startActivity(intent);
+
+
+            }
+        });
+
+        filme6 = findViewById(R.id.filme6);
+        filme6.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, filme6.class);
+                startActivity(intent);
+
+
+            }
+        });
+
+        filme7 = findViewById(R.id.filme7);
+        filme7.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, filme7.class);
+                startActivity(intent);
+
+
+            }
+        });
+
+        filme8 = findViewById(R.id.filme8);
+        filme8.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, filme8.class);
+                startActivity(intent);
+
+
+            }
+        });
+
+        filme9 = findViewById(R.id.filme9);
+        filme9.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TelaPrincipal.this, filme9.class);
+                startActivity(intent);
+
+
+            }
+        });
+
+
         }
-
-
-
     }
